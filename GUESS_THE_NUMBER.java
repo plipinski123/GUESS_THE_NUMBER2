@@ -1,10 +1,5 @@
 
-/**
- * Write a description of class GUESS_THE_NUMBER here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class GUESS_THE_NUMBER
 {
     // instance variables - replace the example below with your own
